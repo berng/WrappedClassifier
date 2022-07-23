@@ -12,7 +12,10 @@ Interpreting program: apply_model_exact_format_withheff-newmodel.py
 Program requires sklearn, tensorflow
 
 Example input file: tmp.tmp
+
 Input file format: tmp.tmptmp.tmp-input_file_format.txt
+
 Example output file: out.tmp
+
 Output file format: out.tmp-output_file_format.txt
 
