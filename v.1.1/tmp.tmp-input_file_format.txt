@@ -1,0 +1,22 @@
+Time(UT)	(not used)
+Range(km)	(not used)
+channel		(not used)
+frequency	(not used)
+beam		(not used)
+Pl		(not used)
+V	
+Wl	
+elev.norm	(not used)
+Heff		
+Hiri		
+Mode		
+sin(k,x)[R]	
+cos(k,b)[R]	
+sin(k,x)[R/2]	
+sin(k,x)[R/4]	
+sin(k,x)[3R/4]	
+Dayno		(not used)
+Class1		(not used)
+Prob1		(not used)
+Class2		(not used)
+Prob2		(not used)

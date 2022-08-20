@@ -1,0 +1,17 @@
+Time(U)	
+Beam	
+Range(km)	
+elev	
+V	
+Wl	
+Range(km)	
+Heff	
+Hiri	
+Mode	
+sin(k,x)[R]	
+cos(k,B)[R]	
+sin(k,x)[R/2]
+sin(k,x)[R/4]	
+sin(k,x)[3R/4]	
+Dayno	
+ClassId (calculated)
